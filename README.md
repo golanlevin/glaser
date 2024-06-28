@@ -2,9 +2,10 @@
 
 ---
 
-Reviews by Milton Glaser, edited by [Emily Gosling](https://x.com/nalascarlett). Originally published at [AIGA Eye On Design](https://eyeondesign.aiga.org/milton-glaser-analyzes-olympic-logo-design-through-the-ages/), August 1st, 2016. Duplicated here when/because [AIGA purged its website](images/2024_aiga_notice.jpg) in June 2024. 
+Reviews by Milton Glaser, compiled and edited by [Emily Gosling](https://x.com/nalascarlett). Originally published at [AIGA Eye On Design](https://eyeondesign.aiga.org/milton-glaser-analyzes-olympic-logo-design-through-the-ages/), August 1st, 2016. Duplicated here when/because [AIGA purged its website](images/2024_aiga_notice.jpg) in June 2024. 
 
-*There’s been much controversy recently around Olympic logo design, but let’s not forget the rich and varying narrative the Games’ graphic design has weaved over the decades. Ahead of Rio 2016, who better to cast their eyes and critical judgement over the good, the bad, and the ugly of logo design for Olympics past, present, and future than Milton Glaser? Here he is.* — Emily Gosling
+*There’s been much controversy recently around Olympic logo design, but let’s not forget the rich and varying narrative the Games’ graphic design has weaved over the decades. Ahead of Rio 2016, who better to cast their eyes and critical judgement over the good, the bad, and the ugly of logo design for Olympics past, present, and future than Milton Glaser? Here he is.* — Emily Gosling
+
 ---
 
 ### Paris – Summer Olympics 1924
