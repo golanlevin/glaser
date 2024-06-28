@@ -432,7 +432,7 @@ There is too much conflict about the final choice for the Tokyo Olympics 2020 lo
 
 ![2022_beijing.png](images/2022_beijing.png)
 
-In this example, the attempt to unify the image and the number 2022 as resulted in making the number ‘2’ look like a ‘Z’ when some problems are solved, others are created. Understanding the meaning of the image at the moment is difficult.
+In this example, the attempt to unify the image and the number 2022 has resulted in making the number ‘2’ look like a ‘Z’. When some problems are solved, others are created. Understanding the meaning of the image at the moment is difficult.
 
 *Score: 60 out of 100*
 
